@@ -1,0 +1,15 @@
+{
+    "author": "rimevel",
+    "description": "Farmers delight comatibility for Create Crafts and Additions.",
+    "versions": [
+        9
+    ],
+    "modloaders": [
+        "forge"
+    ],
+    "dependencies": [
+        "mod:farmersdelight",
+        "mod:createaddition"
+    ],
+    "incompatibilities": []
+}
